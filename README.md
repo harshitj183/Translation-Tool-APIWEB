@@ -43,3 +43,24 @@ To get started with this project, you need to have a basic understanding of HTML
 
 The translation functionality uses the Google Translate API. The endpoint used for translation is:
 
+https://translate.googleapis.com/translate_a/single?client=gtx&sl=${srcLanguage}&tl=${destLanguage}&dt=t&q=${encodeURIComponent(text)}
+
+
+
+
+### Customization
+
+- **CSS**: Modify `style.css` to change the appearance and themes.
+- **JavaScript**: Update `script.js` to modify or enhance the functionality.
+
+### License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+### Contact
+
+For any questions or feedback, feel free to reach out to me at [harshitj183@gmail.com](mailto:harshitj183@gmail.com).
+
+---
+
+Thank you for checking out this project!
